@@ -7,8 +7,8 @@
 
 import CommonCrypto
 import Foundation
-import TruVideoCamera
-import TruVideoCore
+import TruvideoSdkCamera
+import TruvideoSdk
 import UIKit
 
 final class InitViewModel: ObservableObject {

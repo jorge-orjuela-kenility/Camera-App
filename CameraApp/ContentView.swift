@@ -7,7 +7,7 @@
 
 import AVKit
 import SwiftUI
-import TruVideoCamera
+import TruvideoSdkCamera
 
 struct ContentView: View {
     @StateObject var viewModel = InitViewModel()
@@ -56,7 +56,7 @@ struct ContentView: View {
             viewModel.`init`()
         }
         .fullScreenCover(isPresented: $isCameraPresented) {
-            CameraView { results in
+            TruvideoSdkCameraView { results in
                 self.images = results.photos
                 self.clips = results.clips
                 isCameraPresented.toggle()
