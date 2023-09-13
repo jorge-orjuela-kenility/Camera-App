@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Truvideo/truvideo-sdk-ios-camera.git",
       "state" : {
-        "revision" : "5881a4abe5f919c18a569393ec99b9e2ead8add2",
-        "version" : "0.0.6"
+        "revision" : "c3b6729ae5370f6b747e68419b416e671147b91e",
+        "version" : "0.0.7"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Truvideo/truvideo-sdk-ios-core.git",
       "state" : {
-        "revision" : "3017f9a05973faaf1674bca1c6d0f0c15fb6dd44",
-        "version" : "0.0.5"
+        "revision" : "6fd7a825b3e8fcf430c6a4f41b2b7e26a5a31b6e",
+        "version" : "0.0.6"
       }
     }
   ],

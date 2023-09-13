@@ -3,4 +3,70 @@
    uuid = "0233A469-1965-4C03-B393-EA5B951BCA67"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8901F298-3554-4665-93F2-A5F6D9B93B9F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CameraApp/View Model/InitViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "`init`()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D8C6588-E4A7-4237-A991-A847018705EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CameraApp/View Model/InitViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "`init`()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D8C6588-E4A7-4237-A991-A847018705EC - 21cf9d0b49e043b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CameraApp.InitViewModel.init() -&gt; ()"
+                  moduleName = "CameraApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Desktop/Projects/Mobile/iOS/Camera-App/CameraApp/View%20Model/InitViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "2299">
+               </Location>
+               <Location
+                  uuid = "5D8C6588-E4A7-4237-A991-A847018705EC - d7d22901621259bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CameraApp.InitViewModel.init() -&gt; ()"
+                  moduleName = "CameraApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Desktop/Projects/Mobile/iOS/Camera-App/CameraApp/View%20Model/InitViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "353">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

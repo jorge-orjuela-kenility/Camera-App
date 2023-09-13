@@ -7,7 +7,6 @@
 
 import CommonCrypto
 import Foundation
-import TruvideoSdkCamera
 import TruvideoSdk
 import UIKit
 
